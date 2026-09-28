@@ -1,0 +1,20 @@
+{
+  "name": "qr-ippatsu",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "typescript": "~5.7.2",
+    "vite": "^6.0.3",
+    "vite-plugin-pwa": "^0.21.1"
+  },
+  "dependencies": {
+    "jsqr": "^1.4.0",
+    "qrcode-generator": "^1.4.4"
+  }
+}
