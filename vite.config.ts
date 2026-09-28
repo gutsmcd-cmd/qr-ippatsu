@@ -8,7 +8,7 @@ export default defineConfig({
       registerType: 'autoUpdate',
       includeAssets: ['icons/*.png'],
       manifest: {
-        id: './',
+        id: '/qr-ippatsu/',
         name: 'QR一発',
         short_name: 'QR一発',
         description:
