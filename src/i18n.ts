@@ -52,7 +52,7 @@ const ja = {
 };
 export type Dict = typeof ja;
 const en: Dict = {
-  app: 'QR Ippatsu',
+  app: 'QR Make & Scan',
   tabMake: 'Make',
   tabScan: 'Scan',
   tabHistory: 'History',
